@@ -36,12 +36,6 @@ The project includes a visualization of undersea cables across the globe:
     pip install geopandas networkx matplotlib shapely kagglehub pandas
     ```
 
-### Usage
-
-*   Open and run the `peter.ipynb` Jupyter Notebook to reproduce the analysis and visualizations.  Ensure you have installed the necessary dependencies.
-*   The `undersea_cables_world.png` file provides a quick overview of the undersea cable network.
-*   The `map_data` directory contains the shapefile necessary to generate the map.
-
 ### Contributing
 
 Contributions are welcome! Please follow these steps:
