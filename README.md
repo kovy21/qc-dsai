@@ -35,7 +35,7 @@ This repository makes use of the Kaggle [Underwater marine data cables](https://
     A `requirements.txt` file is not explicitly provided, but the notebook relies on the following libraries.  Install them using pip:
 
     ```bash
-    pip install geopandas networkx matplotlib shapely kagglehub pandas
+    pip install geopandas networkx matplotlib shapely kagglehub pandas geopy igraph
     ```
 
 ### Contributing
