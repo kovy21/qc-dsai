@@ -24,7 +24,7 @@ The project includes a visualization of undersea cables across the globe:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/kovy21/qc-dsai/
     cd qc-dsai
     ```
 
